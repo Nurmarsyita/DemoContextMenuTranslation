@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Context Menu Translation</string>
+    <string name="textviewTranslatedText">Hello</string>
+    <string name="tvTranslatedText">TextView</string>
+    <string name="Hello">Hello</string>
+    <string name="Bye">Bye</string>
+</resources>
